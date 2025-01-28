@@ -27,7 +27,8 @@ pip install -r requirements.txt
 Usage:
 To run the tool, use the following command:
 python3 subdomain_finder.py
-Enter the target domain when prompted, and the tool will begin scanning for subdomains and vulnerabilities.
+Enter the target domain when prompted, and the tool will begin scanning for subdomains and
+vulnerabilities.
 
 
  ## License:
