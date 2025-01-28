@@ -1,33 +1,23 @@
 # Bug-Hunting-Tool
-"An automation tool for bug hunting, including subdomain enumeration and security checks."
-# Bug Hunting Automation Tool
-This tool helps automate the process of bug hunting, starting with subdomain enumeration using Subfinder.
 
-Installation:
+This is an automation tool for bug hunting, which includes subdomain enumeration and security checks. I created it to simplify bug hunting and automate common tasks like subdomain discovery and directory brute-forcing.
+
+---
+
+## Changes
+
+I adapted various open-source tools and modified the output format to make it better for my testing purposes. Here's what I added:
+
+- Subdomain enumeration using Subfinder
+- Directory brute-forcing for potential vulnerabilities
+- SSL/TLS checks
+
+---
+
 ## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ctf678/Bug-Hunting-Tool.git
-   cd Bug-Hunting-Tool
 
-   ## Intall the Dependencies:
-   pip install -r requirements.txt
+To install this tool, clone the repository using the following command:
 
-
-## Usage:
-## Usage
-1. Run the script:
-   ```bash
-   python subdomain_finder.py
-Enter the target domain:
-
-Enter the target domain: example.com
-
-
-License:
-
-    Agar license ho toh, wo mention kar sakte ho:
-
-## License
-MIT License. See LICENSE for details.
+```bash
+git clone https://github.com/ctf678/Bug-Hunting-Tool.git
 
