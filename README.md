@@ -30,19 +30,21 @@ python3 subdomain_finder.py
 Enter the target domain when prompted, and the tool will begin scanning for subdomains and vulnerabilities.
 
 
-License:
+ ## License:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ### Key Points:
 1. **Title**: Use `#` for the main title (Bug-Hunting-Tool).
 2. **Sections**: Separate each section using `---` (for example, after the "Changes" section).
-3. **Code**: Enclose commands and code snippets in triple backticks (```bash or ```python), and for inline code use single backticks (`).
+3. **Code**: Enclose commands and code snippets in triple backticks (```bash or ```python),
+ and for inline code use single backticks (`).
 4. **Bullet Points**: For lists like "Changes", use `-` for each point.
 5. **Links**: You can add external links like your "contact" link using markdown syntax `[alt text](link)`.
 
 With this structure, you will get a neat and easy-to-read `README.md` file with all the
 
-### If you have any questions or need help, feel free to open an issue in this repository or ping me via [Discord](https://discord.gg/tzfCpFFF).
+## If you have any questions or need help, feel free to open an issue in this repository
+or ping me via [Discord](https://discord.gg/tzfCpFFF).
 
 
