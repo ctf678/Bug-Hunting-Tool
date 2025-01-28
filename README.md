@@ -41,5 +41,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 4. **Bullet Points**: For lists like "Changes", use `-` for each point.
 5. **Links**: You can add external links like your "contact" link using markdown syntax `[alt text](link)`.
 
-With this structure, you will get a neat and easy-to-read `README.md` file with all the 
+With this structure, you will get a neat and easy-to-read `README.md` file with all the
+
+### If you have any questions or need help, feel free to open an issue in this repository or ping me via [Discord](https://discord.gg/tzfCpFFF).
+
 
