@@ -60,3 +60,29 @@ Parikshit Singh - Creator of this Bug-Hunting-Tool.
 or ping me via [Discord](https://discord.gg/tzfCpFFF).
 
 
+python3 opendoor.py \
+  --host https://syncvibe.xr.com \
+  --scan directories \
+  --wordlist /path/to/your/wordlist.txt \
+  --extensions php,html,txt,json,xml,bak,old,backup,zip,tar,gz,pem,key \
+  --recursive \
+  --recursive-depth 4 \
+  --recursive-status 200,301,302,307,308,401,403 \
+  --threads 30 \
+  --timeout 15 \
+  --retries 2 \
+  --keep-alive \
+  --follow-redirects \
+  --accept-cookies \
+  --auto-calibrate \
+  --calibration-samples 8 \
+  --fingerprint \
+  --waf-detect \
+  --waf-safe-mode \
+  --sniff endpoint,secret,file,indexof,shadow \
+  --include-status 200-399,401,403 \
+  --random-agent \
+  --crawl \
+  --reports json,txt,html \
+  --reports-dir ./reports
+
