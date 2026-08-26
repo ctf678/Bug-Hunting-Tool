@@ -89,7 +89,6 @@ python3 opendoor.py \
 -----------------------------------------------------------------------------------------------------------------------------
 
 
-CPENT CHALLENGES 48–50 — PRACTICAL WALKTHROUGH
 
 TARGET:
 syncvibe.xr.com
